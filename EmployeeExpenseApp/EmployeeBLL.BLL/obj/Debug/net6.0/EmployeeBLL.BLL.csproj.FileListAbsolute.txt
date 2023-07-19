@@ -1,0 +1,17 @@
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\bin\Debug\net6.0\EmployeeBLL.BLL.deps.json
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\bin\Debug\net6.0\EmployeeBLL.BLL.runtimeconfig.json
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\bin\Debug\net6.0\EmployeeBLL.BLL.dll
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\bin\Debug\net6.0\EmployeeBLL.BLL.pdb
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\bin\Debug\net6.0\EmployeeM.data.dll
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\bin\Debug\net6.0\EmployeeM.data.pdb
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\obj\Debug\net6.0\EmployeeBLL.BLL.csproj.AssemblyReference.cache
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\obj\Debug\net6.0\EmployeeBLL.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\obj\Debug\net6.0\EmployeeBLL.BLL.AssemblyInfoInputs.cache
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\obj\Debug\net6.0\EmployeeBLL.BLL.AssemblyInfo.cs
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\obj\Debug\net6.0\EmployeeBLL.BLL.csproj.CoreCompileInputs.cache
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\obj\Debug\net6.0\EmployeeBLL.BLL.csproj.CopyComplete
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\obj\Debug\net6.0\EmployeeBLL.BLL.dll
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\obj\Debug\net6.0\refint\EmployeeBLL.BLL.dll
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\obj\Debug\net6.0\EmployeeBLL.BLL.pdb
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\obj\Debug\net6.0\EmployeeBLL.BLL.genruntimeconfig.cache
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeBLL.BLL\obj\Debug\net6.0\ref\EmployeeBLL.BLL.dll

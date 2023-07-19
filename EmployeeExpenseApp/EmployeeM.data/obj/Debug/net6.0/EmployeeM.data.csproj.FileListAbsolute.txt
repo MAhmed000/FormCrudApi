@@ -1,0 +1,14 @@
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\bin\Debug\net6.0\EmployeeM.data.deps.json
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\bin\Debug\net6.0\EmployeeM.data.runtimeconfig.json
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\bin\Debug\net6.0\EmployeeM.data.dll
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\bin\Debug\net6.0\EmployeeM.data.pdb
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\obj\Debug\net6.0\EmployeeM.data.csproj.AssemblyReference.cache
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\obj\Debug\net6.0\EmployeeM.data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\obj\Debug\net6.0\EmployeeM.data.AssemblyInfoInputs.cache
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\obj\Debug\net6.0\EmployeeM.data.AssemblyInfo.cs
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\obj\Debug\net6.0\EmployeeM.data.csproj.CoreCompileInputs.cache
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\obj\Debug\net6.0\EmployeeM.data.dll
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\obj\Debug\net6.0\refint\EmployeeM.data.dll
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\obj\Debug\net6.0\EmployeeM.data.pdb
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\obj\Debug\net6.0\EmployeeM.data.genruntimeconfig.cache
+E:\Employee_ExpenseApp\Backend\EmployeeExpenseApp\EmployeeM.data\obj\Debug\net6.0\ref\EmployeeM.data.dll
